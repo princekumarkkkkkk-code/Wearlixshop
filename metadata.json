@@ -1,0 +1,6 @@
+{
+  "name": "WEARLIX - Premium Fashion E-Commerce",
+  "description": "YOUR STYLE. YOUR RULES. Premium Indian fashion e-commerce storefront for jackets, hoodies, shirts, denim, and modern streetwear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
